@@ -62,9 +62,6 @@ section{
     align-items: center;
     border-radius: 10px;
 }
-.addnumber i{
-
-}
 .operator{
     display: flex;
     justify-content: center;
@@ -94,73 +91,4 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* .shomarndeh{
-    background-color: red;
-    position: absolute;
-    z-index:1;
-    margin: 300px 350px;
-}
-.time{
-    background-color: blue;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.add span,.minus span,.timer span{
-    background-color: green;
-    display: inline-block;
-    font-size: 50px;
-    font-weight: bold;
-    padding: 10px 20px;
-    margin: 0 80px;
-} */
-/* .timer span{
-    background-color:palevioletred;
-    width: 200px;
-    height:200px ;
-    font-size: 50px;
-    font-weight: bold;
-    display: inline-block;
-} */
-/* .minus span{
-
-} */
